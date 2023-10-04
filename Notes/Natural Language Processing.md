@@ -86,4 +86,26 @@ fave_food = input ("What's your favourtie food?" )
 print(f"Oooh, {fave_food}) sounds good!")
 ```
 
+# String Methods
+
+[[Methods]] are functions that we can use on [[objects]].
+
+String methods allow us to modify strings. 
+
+Say for example, we want to make all the characters of a string lowercase.
+
+```python
+mr_ubial_yelling = "YOU SHOULD PUSH YOUR CHAIRS IN"
+
+print(mr_ubial_yelling.lower())
+```
+
+
+The `.lower()` method takes a string and converts all uppercase characters to lowercase.
+
+
 # [[Modules]]
+
+# [[Boolean]]
+
+# [[Conditionals]]

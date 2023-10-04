@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8862243d175d0414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9074b2808d74d67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -201,12 +225,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4b26128298c549f",
+  "active": "9074b2808d74d67b",
   "lastOpenFiles": [
+    "Syntax Errors.md",
+    "Strings.md",
     "Natural Language Processing.md",
-    "Modules.md",
-    "Lists.md",
+    "Boolean.md",
     "Markdown (Re)Introduction.md",
+    "Modules.md",
+    "Conditionals.md",
+    "Lists.md",
     "Design.md",
     "Headers.md",
     "warmup_1.py",
