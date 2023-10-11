@@ -64,3 +64,11 @@ else:
 # Print out "Mr. Ubial is cool" 20 times
 for _ in range (1000000):
     print("Mr. Ubial is cool")
+
+# Repeat something 5 times and we want to keep track of how many iterations we've completed
+for i in range(5):
+    print(i)
+
+# Can you make this start counting at 1
+for i in range(10):
+    print(f"{i + 1}. The quick brown fox...")
