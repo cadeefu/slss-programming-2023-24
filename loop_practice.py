@@ -62,7 +62,7 @@ else:
     print(f"We didn't find {search_name}.")
 
 # Print out "Mr. Ubial is cool" 20 times
-for _ in range (1000000):
+for _ in range (100):
     print("Mr. Ubial is cool")
 
 # Repeat something 5 times and we want to keep track of how many iterations we've completed
@@ -72,3 +72,19 @@ for i in range(5):
 # Can you make this start counting at 1
 for i in range(10):
     print(f"{i + 1}. The quick brown fox...")
+
+# For example: can we start at another number
+for i in range(2,100):
+    print(i)
+
+# Can we count by any other numberr?
+for i in range(100,0,-1):
+    print(i)
+
+# 1. Print all even numbers between 1200 to 1500 inclusive. Use a for loop
+for i in range(1200,1501, 2):
+    print(i)
+
+# 2. Print all odd numbers between -150 and 0 inclusive
+for i in range(-149, 0, 2):
+    print(i)

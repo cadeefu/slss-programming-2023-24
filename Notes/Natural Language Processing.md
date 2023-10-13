@@ -5,7 +5,7 @@ tags:
   - 2023-24
   - programming-level-1-2
 ---
-
+00
 # Natural Language Processing
 
 ## Output
@@ -100,10 +100,33 @@ mr_ubial_yelling = "YOU SHOULD PUSH YOUR CHAIRS IN"
 print(mr_ubial_yelling.lower())
 ```
 
+We can use string methods to help solve[[Syntax Errors#Semantic Errors[semantic errors]]] 
+# .lower()
 
 The `.lower()` method takes a string and converts all uppercase characters to lowercase.
 
+## .upper() 
 
+The .upper() method uppercases all the le
+
+## .strip() 
+
+The .strip() method removes characters from both the the beginning and the end of the string.
+
+```python  
+user_feeling = input ("How are you feeling today?")
+if user_feeling = "good"  
+if user_feeling.lower().strip("") == "good":  
+print("That's great!")  
+```
+
+## .split(str)
+
+The .split(str) method splits a string into a list, separating the string based on the character you give it.
+
+```python  
+grocery_list = "eggs milk cheese hotwheels"grocery_list = grocery_str.splt(" ")0  
+```
 # [[Modules]]
 
 # [[Boolean]]
