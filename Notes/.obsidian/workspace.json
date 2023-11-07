@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax Errors.md",
+                "file": "Boolean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9473e12708f5979a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Strings.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0a39eda82a42e613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           },
@@ -142,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Types.md"
               }
             }
           },
@@ -213,15 +235,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "309beffc43a05229",
+  "active": "9473e12708f5979a",
   "lastOpenFiles": [
-    "Syntax Errors.md",
-    "Notes.md",
-    "Markdown (Re)Introduction.md",
-    "Strings.md",
-    "Natural Language Processing.md",
-    "food_suggestion_bot",
+    "number_practice.py ",
     "Boolean.md",
+    "Types.md",
+    "quiz_2.mc",
+    "Notes.md",
+    "quiz_1.mc",
+    "Strings.md",
+    "Untitled 1.canvas",
+    "2023-10-17.md",
+    "Syntax Errors.md",
+    "Natural Language Processing.md",
+    "Untitled.canvas",
+    "2023-10-16.md",
+    "Markdown (Re)Introduction.md",
+    "food_suggestion_bot",
     "Modules.md",
     "Conditionals.md",
     "Lists.md",
@@ -231,7 +261,6 @@
     "chatbot.py",
     "chatbot.py ",
     "Format Strings.md",
-    "Untitled.canvas",
     "https/chat.openai.com 1.md",
     "https/chat.openai.com.md",
     "https/chat.openai.com 3.md",
