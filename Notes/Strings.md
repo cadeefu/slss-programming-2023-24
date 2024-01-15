@@ -41,7 +41,7 @@ if user_feeling.lower().strip(",.?! ") == "good":
 	print("That's great!")  
 ```
 
-## .split(str)
+## .split(str) -> List
 
 The .split(str) method splits a string into a list, separating the string based on the character you give it.
 

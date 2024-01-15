@@ -32,6 +32,52 @@
             }
           },
           {
+            "id": "13d986afb96be5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d59478c0a9bc1b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bc55d7c7752d7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61baa0f3e99419c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "309beffc43a05229",
             "type": "leaf",
             "state": {
@@ -98,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types.md",
+                "file": "Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types.md",
+                "file": "Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types.md"
+                "file": "Lists.md"
               }
             }
           },
@@ -214,7 +260,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -235,18 +283,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9473e12708f5979a",
+  "active": "61baa0f3e99419c3",
   "lastOpenFiles": [
+    "Functions.md",
+    "functions_practice.py",
+    "Syntax Errors.md",
+    "https/chat.openai.com 3.md",
+    "https/chat.openai.com 2.md",
+    "https/chat.openai.com 1.md",
+    "https/chat.openai.com.md",
+    "Strings.md",
+    "Lists.md",
+    "Recommendation Systems.md",
+    "Types.md",
+    "Problem_1.py",
+    "Notes.md",
+    "Numbers.md",
     "number_practice.py ",
     "Boolean.md",
-    "Types.md",
     "quiz_2.mc",
-    "Notes.md",
     "quiz_1.mc",
-    "Strings.md",
     "Untitled 1.canvas",
     "2023-10-17.md",
-    "Syntax Errors.md",
     "Natural Language Processing.md",
     "Untitled.canvas",
     "2023-10-16.md",
@@ -254,17 +312,12 @@
     "food_suggestion_bot",
     "Modules.md",
     "Conditionals.md",
-    "Lists.md",
     "Design.md",
     "Headers.md",
     "warmup_1.py",
     "chatbot.py",
     "chatbot.py ",
     "Format Strings.md",
-    "https/chat.openai.com 1.md",
-    "https/chat.openai.com.md",
-    "https/chat.openai.com 3.md",
-    "https/chat.openai.com 2.md",
     "https"
   ]
 }

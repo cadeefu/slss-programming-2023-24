@@ -31,6 +31,8 @@ for _ in range(NUM_RESPONDENTS):
         chatime_likes += 1
     elif fave_place == "bubble queen":
         bubqueen_likes += 1
+    else:
+        other_likes +=1
 
 # Print out a summary
 print(f"CoCo Likes: {coco_likes}")
